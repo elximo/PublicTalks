@@ -1,4 +1,4 @@
-License can be found at LICENSE.txt in the root directory of this repository
+License can be found at LICENSE-CC-BY-NC-SA.txt in the root directory of this repository
 
 # PublicTalks
 
