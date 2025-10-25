@@ -1,3 +1,5 @@
+License can be found at LICENSE.txt in the root directory of this repository
+
 # PublicTalks
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
